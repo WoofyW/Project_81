@@ -1,0 +1,28 @@
+body
+{
+    background-color: aquamarine;
+    color: blue;
+    font-size: 90px;
+    background-size: cover;
+
+}
+
+h1
+{
+	color:  white;
+	font-size: 40px;
+}
+
+#myCanvas
+{
+    border-width: 10px;
+	background-color: white;
+	border-style: ridge;
+    
+}
+
+#no1
+{
+    width: 60px;
+    height: 200px;
+}
